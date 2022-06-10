@@ -1,4 +1,6 @@
 # LasPreguntas
 Prueba técnica SofkaU Wilber Hinestroza
 
-Lenguaje Java con Maven y base de datos Firebase
+IDE Netbeans 12.6
+Lenguaje Java con Maven
+Base de datos Firebase y sus dependencias
