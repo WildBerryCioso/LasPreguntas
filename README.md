@@ -1,6 +1,5 @@
 # LasPreguntas
-Prueba técnica SofkaU 
-Wilber Hinestroza
+Prueba técnica SofkaU Wilber Hinestroza
 
-Lenguaje Java
+Lenguaje Java con Maven
 Base de datos Firebase
